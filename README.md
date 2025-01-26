@@ -20,17 +20,13 @@ Here are some ideas to get you started:
   src="https://github-readme-stats.vercel.app/api?username=marekzan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"
   alt="GitHub Stats"
 /><br />
+<!--
 <img
   src="https://github-readme-streak-stats.herokuapp.com/?user=marekzan&theme=tokyonight&hide_border=true"
   alt="GitHub Streak"
 /><br />
+-->
 <img
   src="https://github-readme-stats.vercel.app/api/top-langs/?username=marekzan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false&layout=compact"
   alt="Top Languages"
-/>
-
-<h2>GitHub Trophies</h2>
-<img
-  src="https://github-profile-trophy.vercel.app/?username=marekzan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"
-  alt="GitHub Trophies"
 />
