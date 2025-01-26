@@ -1,6 +1,8 @@
-## Hi there 👋
+
 
 <!--
+## Hi there 👋
+
 **marekzan/marekzan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -15,7 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>GitHub Stats:</h1>
 <img
   src="https://github-readme-stats.vercel.app/api?username=marekzan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"
   alt="GitHub Stats"
