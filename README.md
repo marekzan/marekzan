@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1>📊 GitHub Stats:</h1>
+<h2>GitHub Stats:</h1>
 <img
   src="https://github-readme-stats.vercel.app/api?username=marekzan&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=false"
   alt="GitHub Stats"
@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   alt="Top Languages"
 />
 
-<h2>🏆 GitHub Trophies</h2>
+<h2>GitHub Trophies</h2>
 <img
   src="https://github-profile-trophy.vercel.app/?username=marekzan&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"
   alt="GitHub Trophies"
